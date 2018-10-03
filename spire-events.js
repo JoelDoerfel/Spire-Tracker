@@ -1,14 +1,6 @@
 // https://github.com/samuelmr/spire-tracker
 // https://app.spire.io/my/portals
 
-/*
-EVENTS:
-// https://developer.spire.io/docs/events
-timestamp (integer) - Time of event. Epoch time format (number of seconds that have elapsed since January 1, 1970 (midnight UTC/GMT)).
-value (decimal) - "br" - breath rate in breaths per second; "steps" - number of steps; "calories" - number of calories burned.
-event_type (string) - Event type.
-*/
-
 // CMD:
 // $ node spire-events.js
 // destination folder = same as node.js install, e.g. c:/program files/nodejs
