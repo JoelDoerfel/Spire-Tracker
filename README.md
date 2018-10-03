@@ -23,3 +23,5 @@ Troubleshooting:
 - If data is returning null or you're getting an error that reads "Error: Data should not be empty or the 'fields' option should be included", login to the Spire app on your phone and make sure that the data has synced. The icon on the top right that looks like a recycling icon should not be spinning. If it is, you've got an active sync going on, so wait until that's done.
 
 - Otherwise, double-check to see if the date you've selected has any Spire data associated with it.
+
+- If your sync has recently completed, give the API server some time to make the data available for download.
