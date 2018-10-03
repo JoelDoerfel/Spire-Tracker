@@ -11,7 +11,7 @@ event_type (string) - Event type.
 
 // CMD:
 // $ node spire-events.js
-// destination folder = same as node.js install, c:/program files/nodejs
+// destination folder = same as node.js install, e.g. c:/program files/nodejs
 
 const json2csv = require('json2csv').parse;
 const Spire = require('spire-tracker')
