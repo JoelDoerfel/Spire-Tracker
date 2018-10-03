@@ -3,9 +3,9 @@
 Here's a lightweight node.js application to download granular intraday breathing data from your Spire biometric device. It is based on Samuel Rinnetmäki's code (https://github.com/samuelmr/spire-tracker), to which I've added a save-to-csv function. It runs from the command line.
 
 Install:
-npm install json2csv
-npm install spire-tracker
-npm install fs
+- npm install json2csv
+- npm install spire-tracker
+- npm install fs
 
 Steps:
 
