@@ -13,7 +13,7 @@ Steps:
 
 (2) From a browser, login into your Spire account and navigate to https://app.spire.io/my/portals and copy your Spire API Access token. You can email api@spire.io to troubleshoot any access issues.
 
-(3) Once you've got your access token, you need to update the variable "token" in line 23 from 'YOUR_SPIRE_TOKEN' to your access token. The only other important edit you'll need to make to the code is the "date" variable in line 21. Without altering the format (yyyymmdd), set it to the date from which you'd like to pull data. Save the file.
+(3) Once you've got your access token, you need to update the variable "token" in line 15 from 'YOUR_SPIRE_TOKEN' to your access token. The only other important edit you'll need to make to the code is the "date" variable in line 13. Without altering the format (yyyymmdd), set it to the date from which you'd like to pull data. Save the file.
 
 (4) From a Windows machine, the command line command is "node spire-events.js".
 _____
